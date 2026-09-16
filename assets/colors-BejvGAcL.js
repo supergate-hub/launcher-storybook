@@ -1,4 +1,4 @@
-import{n as e}from"./rolldown-runtime-CsOFd3vK.js";import{u as t}from"./iframe-CrNY26vr.js";import{i as n,r}from"./react-DgUa_zLF.js";import{c as i,i as a,r as o,s}from"./blocks-B_olg4Sk.js";function c(e){let t={h1:`h1`,h2:`h2`,p:`p`,...n(),...e.components};return(0,u.jsxs)(u.Fragment,{children:[(0,u.jsx)(s,{title:`Foundations/Colors`}),`
+import{n as e}from"./rolldown-runtime-CsOFd3vK.js";import{u as t}from"./iframe-sOTXcdzS.js";import{i as n,r}from"./react-DgUa_zLF.js";import{c as i,i as a,r as o,s}from"./blocks-Mz20SR4s.js";function c(e){let t={h1:`h1`,h2:`h2`,p:`p`,...n(),...e.components};return(0,u.jsxs)(u.Fragment,{children:[(0,u.jsx)(s,{title:`Foundations/Colors`}),`
 `,(0,u.jsx)(t.h1,{id:`colors`,children:`Colors`}),`
 `,(0,u.jsx)(t.p,{children:`Semantic color tokens from the current default Launcher theme. The swatches use
 the application CSS variables directly, so they stay aligned with the theme

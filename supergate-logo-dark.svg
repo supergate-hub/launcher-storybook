@@ -1,8 +1,0 @@
-<svg width="120" height="24" viewBox="0 0 120 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Three vertical bars - same height -->
-  <rect x="0" y="4" width="5" height="16" rx="2.5" fill="white"/>
-  <rect x="8" y="4" width="5" height="16" rx="2.5" fill="white"/>
-  <rect x="16" y="4" width="5" height="16" rx="2.5" fill="white"/>
-  <!-- supergate text -->
-  <text x="28" y="17" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="500" fill="white">supergate</text>
-</svg>

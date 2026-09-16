@@ -1,8 +1,0 @@
-<svg width="180" height="48" viewBox="0 0 180 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background offset effect -->
-  <rect x="4" y="0" width="176" height="40" rx="4" fill="#8FB4DE"/>
-  <!-- Main background -->
-  <rect x="0" y="6" width="176" height="40" rx="4" fill="#4A7FC1"/>
-  <!-- Launcher text -->
-  <text x="88" y="34" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="300" fill="white" text-anchor="middle" letter-spacing="2">Launcher</text>
-</svg>
